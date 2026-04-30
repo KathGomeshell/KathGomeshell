@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER MATRIX -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;FULLSTACK+WEB+DEVELOPER;LINUX+%26+SHELL+ENTHUSIAST" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;TECH+STUDENT;FULLSTACK+WEB+DEVELOPER;LINUX+%26+SHELL+ENTHUSIAST" />
 
 <!-- FRASE ANIMADA -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Initializing+system...;Access+granted;Welcome+to+my+profile" />
@@ -21,7 +21,7 @@
 # Kath Gomes
 
 + $ current_focus
-# Cybersecurity Student & Web Development
+# Tech Student & Web Development
 
 + $ tech_stack
 # Shell Linux | C | HTML | CSS | JavaScript
@@ -56,8 +56,12 @@
 ### 📂 Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&hide_border=true" />
+  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
+    <img src="https://img.shields.io/badge/JavaScript-Exercises-00FF41?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
+    <img src="https://img.shields.io/badge/42-Piscine-00FF41?style=for-the-badge&logo=42&logoColor=black" />
+  </a>
 </p>
 
 ---
