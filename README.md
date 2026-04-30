@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BANNER TERMINAL DIGITANDO (CORRIGIDO) -->
+<!-- BANNER DINÂMICO QUE VOCÊ GOSTOU -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;WEB+DEVELOPER+FULLSTACK;ACCESSING+DATABASE..." alt="Typing SVG" />
 
 <p align="center">
@@ -34,33 +34,37 @@ $ tech_stack
 
 ---
 
+### 🐍 Contribution Matrix (Snake Game Animado)
+
+<!-- A COBRINHA COMERÁ SEUS COMMITS EM VERDE MATRIX -->
+<img src="https://github-readme-stats.vercel.app/api/snake?github=KathGomeshell&color_dot=000000&color_snake=00FF41&color_target=FF0055" alt="Snake Animation" />
+
+---
+
 ### 📊 Matrix Activity Monitor
 
-<!-- GRÁFICO DE BARRAS ANIMADO (MOSTRE O QUE VOCÊ USA) -->
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
-</p>
-
-<p align="center">
-  <!-- STATUS DE COMMITS COM EFEITO GLITCH/ANIMADO -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KathGomeshell&theme=matrix&hide_border=true&stroke=00FF41&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <!-- Gráfico de Linguagens em Estilo Neon -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
 </p>
 
 ---
 
-### 📂 Decrypted Data (Projects)
+### 📂 Decrypted Projects (Featured)
 
-<!-- CARDS DE PROJETOS COM TEMA MATRIX -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&bg_color=000000&hide_border=true&title_color=00FF41" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&bg_color=000000&hide_border=true&title_color=00FF41" />
+  <!-- Card de Projeto que parece um Pop-up de sistema -->
+  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&bg_color=0b0b0b&title_color=00FF41&border_radius=10" />
+  </a>
+  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&bg_color=0b0b0b&title_color=00FF41&border_radius=10" />
+  </a>
 </div>
 
 <br />
 
-<!-- GIF DE TERMINAL MATRIX (ESSE CARREGA SEMPRE) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" />
-</p>
+<!-- GIF DE ENTRADA NO SISTEMA (HACKER) -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZpZzR3eXp4Y3R4eXp4Y3R4eXp4Y3R4eXp4Y3R4eXp4Y3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUY2upAMnYfOPL39ps/giphy.gif" width="100%" />
 
 </div>
