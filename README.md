@@ -56,12 +56,8 @@
 ### 📂 Projects
 
 <p align="center">
-  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
-    <img src="https://img.shields.io/badge/JavaScript-Exercises-00FF41?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
-    <img src="https://img.shields.io/badge/42-Piscine-00FF41?style=for-the-badge&logo=42&logoColor=black" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&hide_border=true" />
 </p>
 
 ---
