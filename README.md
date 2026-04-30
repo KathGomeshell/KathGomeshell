@@ -1,58 +1,65 @@
 <div align="center">
 
-<!-- 1. BANNER ANIMADO COM EFEITO GLITCH -->
-<img src="https://capsule-render.vercel.app/render?type=glitch&text=KATH%20GOMES&color=7000ff&fontSize=80&fontAlignY=40&fontColor=00ffea" alt="Banner" />
+<!-- BANNER DINÂMICO ESTILO TERMINAL -->
+<img src="https://capsule-render.vercel.app/render?type=terminal&text=KATH%20GOMES&color=000000&fontSize=80&fontColor=00FF41" alt="Matrix Banner" />
 
-<!-- 2. STATUS DO SISTEMA (BADGES NEON) -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00ffea?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/LOCAL-SAO_PAULO-7000ff?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROLE-NETRUNNER-ff0055?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
----
-
-### 🖥️ Neural Interface (Diagnostic)
-
-<p align="left">
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=KathGomeshell&show_icons=true&theme=radical&hide_border=true&title_color=00ffea&text_color=ffffff&icon_color=7000ff" />
-
-<code><b>> USER:</b> Kath</code><br>
-<code><b>> DECK:</b> Linux Mint 21 (Vanessa)</code><br>
-<code><b>> SKILLS:</b> C // Shell // Web</code><br>
-<code><b>> GOAL:</b> Inteli & Cyber Defense</code>
-</p>
-
-<br>
-
----
-
-### 🛠️ Hardware & Tools (Arsenal)
-
-<!-- Ícones Coloridos e Animados -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/SYSTEM-ENCRYPTED-00FF41?style=flat-square&logo=linux&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-STUDYING_CYBERSECURITY-00FF41?style=flat-square&logo=hackthebox&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=flat-square&labelColor=black" />
+</p>
+
+---
+
+### 🟢 NODE_LOG: /home/kath/info
+
+<div align="left">
+<pre>
+$ whoami
+> <b>Kath</b>
+$ current_focus
+> <b>Cybersecurity & Low Level (C/Shell)</b>
+$ os_environment
+> <b>Linux Mint 21 (Vanessa)</b>
+$ status
+> <b>Tracing packet signals...</b>
+</pre>
+</div>
+
+---
+
+### ⚡ Technomancy Skills (Arsenal)
+
+<!-- Ícones com fundo preto e bordas verdes -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,vscode,git&theme=dark" />
+</p>
+
+---
+
+### 📊 Matrix Activity Monitor
+
+<p align="center">
+  <!-- Card de Linguagens em Verde Matrix -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&langs_count=7&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000" />
+  
+  <!-- Card de Stats em Verde Matrix -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KathGomeshell&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000" />
+</p>
+
+---
+
+### 📂 Decrypted Data (Projects)
+
+<p align="center">
+  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&title_color=00FF41&bg_color=000000&hide_border=true" />
   </a>
 </p>
 
----
+<br />
 
-### 🐍 Contribution Matrix (System Activity)
-
-<!-- O jogo da cobrinha que come seus commits -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KathGomeshell/KathGomeshell/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KathGomeshell/KathGomeshell/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📂 Decrypted Projects (Featured)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=radical&title_color=00ffea&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=radical&title_color=7000ff&hide_border=true" />
-</p>
+<!-- Gif de fundo ou finalização estilo Hacker -->
+<img src="https://raw.githubusercontent.com/Tr0jan-H0rse/Tr0jan-H0rse/master/assets/hacking.gif" width="100%" />
 
 </div>
