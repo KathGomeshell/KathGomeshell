@@ -3,7 +3,7 @@
 <!-- BANNER MATRIX -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;FULLSTACK+WEB+DEVELOPER;LINUX+%26+SHELL+ENTHUSIAST" />
 
-<!-- FRASE ANIMADA NOVA -->
+<!-- FRASE ANIMADA -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Initializing+system...;Access+granted;Welcome+to+my+profile" />
 
 <p align="center">
@@ -56,18 +56,17 @@
 ### 📂 Projects
 
 <p align="center">
-  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&hide_border=true" />
-  </a>
-  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&hide_border=true" />
-  </a>
-</p>
 
-<!-- FALLBACK CASO NÃO CARREGUE -->
-<p align="center">
-  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">🔗 JavaScript Exercises</a> •
-  <a href="https://github.com/KathGomeshell/agradáveis-piscina">🔗 42 Piscine</a>
+<a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
+  <img src="https://img.shields.io/badge/JavaScript-Exercises-00FF41?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/KathGomeshell/agradáveis-piscina">
+  <img src="https://img.shields.io/badge/42-Piscine-00FF41?style=for-the-badge&logo=42&logoColor=black" />
+</a>
+
 </p>
 
 ---
