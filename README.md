@@ -1,36 +1,38 @@
 <div align="center">
 
-<!-- BANNER DE DIGITAÇÃO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;SOFTWARE+ENGINEERING+STUDENT;ASPIRING+CYBERSECURITY+EXPERT;LINUX+%26+SHELL+ENTHUSIAST" alt="Typing SVG" />
+<!-- BANNER MATRIX ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;FULLSTACK+WEB+DEVELOPER;SYSTEM+INTRUSION+EXPERT" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBER-ASPIRANT-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-00FF41?style=for-the-badge&logo=gitbook&logoColor=black" />
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=flat-square&logo=hackthebox&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-00FF41?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/LOW_LEVEL-C_SHELL-00FF41?style=flat-square&logo=c&logoColor=00FF41&labelColor=black" />
 </p>
 
 ---
 
-### 🟢 [SOBREPOSIÇÃO_DO_SISTEMA]: /identidade/kath
+### 🟢 [SYSTEM_OVERRIDE]: /identity/kath
 
 <div align="left">
-
-```sql
+<pre>
 $ quem sou eu
-> Kath
-
+> <b>Kath</b>
 $ foco_atual
-> Engenharia de Software e Segurança Cibernética
-
+> <b>Segurança Cibernética e Web Fullstack</b>
 $ pilha_de_tecnologia
-> Shell Linux / C / Web (HTML, CSS, JS)
-
+> <b>Shell Linux / C / Web (HTML, CSS, JS)</b>
 $ status
-> Aprendendo lógica de baixo nível e segurança web
+> <b>Aprendendo lógica de baixo nível e segurança web</b>
+</pre>
+</div>
+
+---
 
 ### 🛠️ Toolbelt (Cyber & Web Arsenal)
 
+<!-- FERRAMENTAS COLORIDAS QUE VOCÊ GOSTA -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs,github,figma,kali&theme=dark" />
 </p>
 
 ---
@@ -38,19 +40,22 @@ $ status
 ### 📊 Matrix Activity Monitor
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&langs_count=7&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KathGomeshell&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000" />
 </p>
 
 ---
 
 ### 📂 Decrypted Projects
 
-<div align="left">
-
-*   🚀 **[Atividades-de-Javascript](https://github.com/KathGomeshell/Atividades-de-Javascript)** - *Exercícios de lógica e desenvolvimento Web.*
-*   ⚡ **[agradáveis-piscina](https://github.com/KathGomeshell/agradáveis-piscina)** - *Projetos em C e Shell Scripting (Low-level).*
-
-</div>
+<p align="center">
+  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&title_color=00FF41&bg_color=000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/KathGomeshell/agradáveis-piscina">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&title_color=00FF41&bg_color=000000&hide_border=true" />
+  </a>
+</p>
 
 <br />
 
