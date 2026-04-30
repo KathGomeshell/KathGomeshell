@@ -1,25 +1,20 @@
 <div align="center">
 
-<!-- BANNER MATRIX ANIMADO -->
+<!-- BANNER MATRIX -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;FULLSTACK+WEB+DEVELOPER;LINUX+%26+SHELL+ENTHUSIAST" />
+
+<!-- FRASE ANIMADA NOVA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Initializing+system...;Access+granted;Welcome+to+my+profile" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=flat-square&logo=hackthebox&logoColor=00FF41&labelColor=black" />
   <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-00FF41?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=black" />
-  <img src="https://img.shields.io/badge/LOW_LEVEL-C_SHELL-00FF41?style=flat-square&logo=c&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/STACK-C_SHELL-00FF41?style=flat-square&logo=c&logoColor=00FF41&labelColor=black" />
 </p>
-
----
-
-<!-- FRASE ESTILIZADA -->
-<h3 align="center">
-  <span style="color:#00FF41;">⬤ SYSTEM OVERRIDE</span> :
-  <span style="color:#00FF41;">/identity/kath</span>
-</h3>
 
 </div>
 
-<div align="left">
+---
 
 ```diff
 + $ whoami
@@ -34,8 +29,6 @@
 + $ status
 # Learning and evolving 🚀
 ```
-
-</div>
 
 ---
 
@@ -71,11 +64,14 @@
   </a>
 </p>
 
-<br />
+<!-- FALLBACK CASO NÃO CARREGUE -->
+<p align="center">
+  <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">🔗 JavaScript Exercises</a> •
+  <a href="https://github.com/KathGomeshell/agradáveis-piscina">🔗 42 Piscine</a>
+</p>
 
-<!-- GIF MATRIX FINAL -->
+---
+
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZpZzR3eXp4Y3R4eXp4Y3R4eXp4Y3R4eXp4Y3R4eXp4Y3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUY2upAMnYfOPL39ps/giphy.gif" width="100%" />
 </p>
-
-</div>
