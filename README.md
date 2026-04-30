@@ -1,59 +1,59 @@
 <div align="center">
 
-<!-- BANNER QUE DIGITA (ANIMAÇÃO MATRIX) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;CYBERSECURITY+STUDENT;FULLSTACK+WEB+DEVELOPER;FOLLOW+THE+WHITE+RABBIT..." alt="Typing SVG" />
+<!-- BANNER DE DIGITAÇÃO (ESTE É ESTÁVEL) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;SOFTWARE+ENGINEERING+STUDENT;CYBERSECURITY+%26+WEB+DEV;FOLLOW+THE+WHITE+RABBIT..." alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBER-STUDENT-00FF41?style=flat-square&logo=hackthebox&logoColor=00FF41&labelColor=black" />
-  <img src="https://img.shields.io/badge/WEB-DEV-00FF41?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=black" />
-  <img src="https://img.shields.io/badge/LOGIC-LOW_LEVEL-00FF41?style=flat-square&logo=c&logoColor=00FF41&labelColor=black" />
+  <img src="https://img.shields.io/badge/STUDYING-SOFTWARE_ENGINEERING-00FF41?style=for-the-badge&logo=gitbook&logoColor=black" />
 </p>
 
 ---
 
-### 🟢 [SYSTEM_LOG]
+### 🟢 ACCESS_GRANTED: /USER/KATH
 
 <div align="left">
-<pre>
-$ whoami
-> <b>Kath</b>
-$ focus
-> <b>Cybersecurity & Web (Fullstack)</b>
-$ learning
-> <b>Low-level logic & Web security</b>
+<pre align="center" style="background-color:#000; color:#00FF41; border:1px solid #00FF41; padding:15px; border-radius:5px;">
+<b>$ whoami</b>
+> Kath
+<b>$ current_focus</b>
+> Software Engineering / Cybersecurity / Fullstack Web
+<b>$ tech_path</b>
+> Low-level Logic & Web Security
 </pre>
 </div>
 
 ---
 
-### 🛠️ Arsenal (Tech Stack)
+### 🛠️ ARSENAL (Technologies)
 
+<!-- Ícones que não quebram e são visualmente bonitos -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,react,nodejs,git,vscode,github,linux&theme=dark" />
 </p>
 
 ---
 
-### 📊 Network Activity
+### 📊 SYSTEM ACTIVITY
 
+<!-- Gráfico de Atividade que funciona via GitHub nativo -->
 <p align="center">
-  <!-- Esse gráfico mostra as linguagens em formato de barra neon -->
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
 </p>
 
 ---
 
-### 📂 Decrypted Projects
+### 📂 DECRYPTED PROJECTS
 
-<p align="center">
-  <!-- Projetos fixados com tema Matrix -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=Atividades-de-Javascript&theme=matrix&bg_color=000000&hide_border=true&title_color=00FF41" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KathGomeshell&repo=agradáveis-piscina&theme=matrix&bg_color=000000&hide_border=true&title_color=00FF41" />
-</p>
+<div align="left">
+
+*   **[Atividades-de-Javascript](https://github.com/KathGomeshell/Atividades-de-Javascript)** - `Logic & Web Development`
+*   **[agradáveis-piscina](https://github.com/KathGomeshell/agradáveis-piscina)** - `Low-level C coding`
+
+</div>
 
 <br />
 
-<!-- CHUVA DE CÓDIGO MATRIX ANIMADA NO FINAL -->
+<!-- GIF MATRIX ESTILO CHUVA DE CÓDIGO (LINHA FINAL) -->
 <img src="https://raw.githubusercontent.com/Tr0jan-H0rse/Tr0jan-H0rse/master/assets/hacking.gif" width="100%" />
 
 </div>
