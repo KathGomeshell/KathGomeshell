@@ -11,31 +11,35 @@
 
 ---
 
-### 🟢 <span style="color:#00FF41;">[SYSTEM_OVERRIDE]</span>: <span style="color:#00FF41;">/identity/kath</span>
+<!-- FRASE ESTILIZADA -->
+<h3 align="center">
+  <span style="color:#00FF41;">⬤ SYSTEM OVERRIDE</span> :
+  <span style="color:#00FF41;">/identity/kath</span>
+</h3>
 
 </div>
 
 <div align="left">
 
 ```diff
-+ $ quem_sou_eu
++ $ whoami
 # Kath Gomes
 
-+ $ foco_atual
-# Cybersecurity & Web Fullstack
++ $ current_focus
+# Cybersecurity Student & Web Development
 
-+ $ tecnologias
++ $ tech_stack
 # Shell Linux | C | HTML | CSS | JavaScript
 
 + $ status
-# Aprendendo low-level & segurança web 🚀
+# Learning and evolving 🚀
 ```
 
 </div>
 
 ---
 
-### 🛠️ Toolbelt (Cyber & Web Arsenal)
+### ⚙️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs,github,figma,kali&theme=dark" />
@@ -43,7 +47,7 @@
 
 ---
 
-### 📊 Matrix Activity Monitor
+### 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KathGomeshell&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
@@ -56,7 +60,7 @@
 
 ---
 
-### 📂 Decrypted Projects
+### 📂 Projects
 
 <p align="center">
   <a href="https://github.com/KathGomeshell/Atividades-de-Javascript">
