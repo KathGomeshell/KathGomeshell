@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 1. BANNER ANIMADO COLORIDO -->
-<img src="https://capsule-render.vercel.app/render?type=glitch&text=KATH%20GOMES&color=00FF41&fontSize=70&fontAlignY=40&fontColor=00FF41" alt="Banner" />
+<!-- BANNER DE DIGITAÇÃO MATRIX (VOLTOU!) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=KATH+GOMES;SOFTWARE+ENGINEERING+STUDENT;ASPIRING+CYBERSECURITY+EXPERT;LINUX+%26+SHELL+ENTHUSIAST" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASPIRING-CYBER_SECURITY-7000ff?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/STUDYING-SOFTWARE_ENGINEERING-00ffea?style=for-the-badge&logo=gitbook&logoColor=black" />
+  <img src="https://img.shields.io/badge/CYBER-ASPIRANT-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-00FF41?style=for-the-badge&logo=gitbook&logoColor=black" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 <div align="left">
 <pre>
-$ whoami
+$ quem sou eu
 > <b>Kath</b>
 $ foco_atual
 > <b>Engenharia de Software e Segurança Cibernética</b>
@@ -29,18 +29,16 @@ $ status
 
 ### 🛠️ Toolbelt (Cyber & Web Arsenal)
 
-<!-- ÍCONES COLORIDOS E BONITOS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,js,html,css,git,vscode,react,nodejs,github&theme=dark" />
 </p>
 
 ---
 
-### 📊 Network Activity (Status)
+### 📊 Matrix Activity Monitor
 
-<!-- Gráfico simples que não quebra -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathGomeshell&layout=compact&theme=matrix&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
 </p>
 
 ---
